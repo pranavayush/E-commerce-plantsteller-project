@@ -66,12 +66,6 @@ Authentication:
 Payments:
 - Razorpay
 
-## 👨‍💻 Team
-
-### Pranav Ayush
-Co-Founder & Lead Developer
-B.Tech 3rd Year Student
-
 📧 pranavayush8@gmail.com
 📱 6392826369
 📷 Instagram: @pranavayush
